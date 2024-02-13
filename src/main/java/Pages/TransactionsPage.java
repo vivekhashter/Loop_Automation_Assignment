@@ -52,6 +52,7 @@ public class TransactionsPage {
 	public void tableToCsvConversion() throws InterruptedException {
 
 		SeleniumUtils.tableToCsv();
+		driver.close();
 		
 	}
 }
