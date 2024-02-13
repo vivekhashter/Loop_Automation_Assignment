@@ -16,10 +16,16 @@ Using Selenium (Loop Assignment)
 ### CSV File
 - csv is getting downloaded at path ../AutomationSelenium/*.csv
 
+###  Screen-Recording 
+- Screen recording is attached in this repo  
+
 ### Git
 - Screenshot of console after executing the program is getting saved in the  git repo
  
-Note: User can change git repo and account according to requirement
+Note: User can change git repo and account according to requirement. Recording can also be accessed by using below link
+
+https://drive.google.com/file/d/1l70Ab8Y-cF-FppYbFpkOKPmIYjAqpP-7/view?usp=drive_link
+
 
  
  
