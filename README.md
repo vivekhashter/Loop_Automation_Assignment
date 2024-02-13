@@ -17,7 +17,8 @@ Using Selenium (Loop Assignment)
 - csv is getting downloaded at path ../AutomationSelenium/*.csv
 
 ### Git
-- Screenshot of console after executing the program is getting saved in the  git repo 
+- Screenshot of console after executing the program is getting saved in the  git repo
+ 
 Note: User can change git repo and account according to requirement
 
  
